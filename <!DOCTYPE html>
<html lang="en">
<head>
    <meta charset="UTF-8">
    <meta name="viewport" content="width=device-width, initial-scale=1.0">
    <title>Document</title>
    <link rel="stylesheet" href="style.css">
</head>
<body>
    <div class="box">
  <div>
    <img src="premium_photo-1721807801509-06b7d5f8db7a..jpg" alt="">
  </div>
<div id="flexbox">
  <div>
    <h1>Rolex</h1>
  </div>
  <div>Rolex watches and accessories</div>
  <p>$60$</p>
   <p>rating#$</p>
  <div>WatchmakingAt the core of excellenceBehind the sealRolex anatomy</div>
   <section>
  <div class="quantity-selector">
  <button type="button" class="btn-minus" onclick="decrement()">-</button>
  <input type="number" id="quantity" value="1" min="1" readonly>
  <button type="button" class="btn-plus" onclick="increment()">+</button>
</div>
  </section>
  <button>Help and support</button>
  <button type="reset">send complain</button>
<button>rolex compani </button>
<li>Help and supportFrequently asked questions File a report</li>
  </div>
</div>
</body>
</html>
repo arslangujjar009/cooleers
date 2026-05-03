@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">
+  <div>
+    <img src="premium_photo-1721807801509-06b7d5f8db7a..jpg" alt="">
+  </div>
+<div id="flexbox">
+  <div>
+    <h1>Rolex</h1>
+  </div>
+  <div>Rolex watches and accessories</div>
+  <p>$60$</p>
+   <p>rating#$</p>
+  <div>WatchmakingAt the core of excellenceBehind the sealRolex anatomy</div>
+   <section>
+  <div class="quantity-selector">
+  <button type="button" class="btn-minus" onclick="decrement()">-</button>
+  <input type="number" id="quantity" value="1" min="1" readonly>
+  <button type="button" class="btn-plus" onclick="increment()">+</button>
+</div>
+  </section>
+  <button>Help and support</button>
+  <button type="reset">send complain</button>
+<button>rolex compani </button>
+<li>Help and supportFrequently asked questions File a report</li>
+  </div>
+</div>
+</body>
+</html>
