@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 0;
+    height: 0;
+}
+.box {
+  border: 2px dotted rgb(96 139 168);
+  display: flex;
+  align-items: flex-start;
+  height: 200px;
+}
+.box div {
+  padding: 2px;
+  gap: 50%;
+}
+section{
+padding: 10px;
+margin: 20px;
+background-color: rgb(73, 62, 44);
+}
+.button{
+    background-color: rgb(168, 168, 157);
+}
+    .flexbox{
+margin: 10px;
+    }
